@@ -12,10 +12,11 @@
     "node": "14.17.6"
   },
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.15",
     "mongoose": "^6.4.0"
   }
 }
